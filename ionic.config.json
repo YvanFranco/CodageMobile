@@ -1,0 +1,7 @@
+{
+  "name": "codage",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
